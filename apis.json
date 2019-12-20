@@ -1,0 +1,67 @@
+{
+    "name": "U.S. Department of Transportation",
+    "description": "The United States Department of Transportation is a federal Cabinet department of the US government concerned with transportation.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28766-vpic-nhtsa-dot-gov.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/u-s--department-of-transportation\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "U.S. Department of Transportation",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28766-vpic-nhtsa-dot-gov.jpg",
+            "humanURL": "http:\/\/vpic.nhtsa.dot.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--department-of-transportation-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--department-of-transportation-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/u-s-department-of-transportation"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@dot.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Denise.P.Wright@dot.gov"
+        },
+        {
+            "type": "Email",
+            "url": "DOTCFO@dot.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Edward.c.ramos@dot.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USDOT"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/vpic.nhtsa.dot.gov"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/vpic.nhtsa.dot.gov"
+        }
+    ]
+}
